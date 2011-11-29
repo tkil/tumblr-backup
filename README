@@ -22,11 +22,10 @@ Anthony Foiani <anthony.foiani@gmail.com>
 Credits
 =======
 
-The icon is by http://schollidesign.deviantart.com/
+The icon is from
 
-Originally found at
+  http://schollidesign.deviantart.com/art/Human-O2-Iconset-105344123
 
-  http://findicons.com/icon/94320/applications_office?id=94320
-
-The latter site claims the icon is GPL; if that is not the case, we
-will be happy to change it.
+Where the license (as of 2011-11-29) is specified as being GPL or many
+others; as such, incorporating it into a GPLv2 package should be
+reasonable.
