@@ -1,8 +1,24 @@
+*** WARNING ***
+
+This is currently a work in progress; it doesn't actually do anything yet.
+
+*** WARNING ***
+
 Tumblr-Backup
 =============
 
 tumblr-backup is a small command-line utility designed to back up one
 or more tumblr feeds.
+
+To DO
+=====
+
+   * Pretty much anything, really.  Eventually:
+      + Save images, preferably highest-res
+      + Keep timestamps, don't duplicate fetch
+      + Don't fetch further back in history than needed
+
+   * Handle tags.
 
 Primary Website
 ===============
